@@ -1,6 +1,6 @@
 # Word2PDFConvert  
 Convert multiple Word files to PDF files using.  
-Going to need install python3 and creat the folders `C:\Temp\in` and `C:\Temp\OUT`   
+Going to need to [install python](https://realpython.com/installing-python/) and create the folders `C:\Temp\in` and `C:\Temp\OUT`   
 ## Installation  
 ```bash
 pip install virtualenv
