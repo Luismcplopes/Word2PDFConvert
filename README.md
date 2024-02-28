@@ -1,2 +1,6 @@
-# Word2PDFConvert
+# Word2PDFConvert  
 Convert multiple Word files to PDF files using.
+## Installation
+
+## Usage
+
